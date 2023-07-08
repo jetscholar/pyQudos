@@ -20,5 +20,5 @@ This is a work log to keep track of what is being done.
 **Tables**
 
 Date | Work Done | Description
----------- | -------------
+---------- | ------------- | -----
 18.07.22 | Built up Python Flask Mongo server |
